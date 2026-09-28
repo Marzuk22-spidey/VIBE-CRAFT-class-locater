@@ -1,0 +1,6 @@
+{
+  "name": "VIBECRAFT Free Class Locator",
+  "description": "College hackathon Round 2 room availability locator and intelligent AI room finder based on academic timetable schedules.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
